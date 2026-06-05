@@ -1,0 +1,7 @@
+ACCOUNT_STATUS_ACTIVE = "active"
+ACCOUNT_STATUS_SUSPENDED = "suspended"
+ACCOUNT_STATUS_ARCHIVED = "archived"
+
+TASK_DAILY = "daily"
+TASK_WEEKLY = "weekly"
+TASK_MONTHLY = "monthly"

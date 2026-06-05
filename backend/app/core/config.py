@@ -6,9 +6,7 @@ class Settings(BaseSettings):
 
     API_V1_PREFIX: str = "/api/v1"
 
-    DATABASE_URL: str = (
-        "postgresql://postgres:postgres@localhost:5432/account_lifecycle"
-    )
+    DATABASE_URL: str
 
     DEBUG: bool = True
 
